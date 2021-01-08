@@ -1,5 +1,6 @@
 Rencana Magang
 
-1. Toko Pedia
+1. Grab
 2. Shopee
-3. Grab
+3. Toko Pedia
+4. Lazada
